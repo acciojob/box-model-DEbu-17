@@ -19,13 +19,13 @@
 	border-radius:50%;
 	display:inline-block;
 }
-.first{
+.green{
 	background-color:green;
 }
-.second{
+.yellow{
 	background-color:yellow;
 }
-.third{
+.red{
 	background-color:red;
 }
 
